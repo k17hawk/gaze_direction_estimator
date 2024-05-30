@@ -1,0 +1,1 @@
+from entity.config_entity import VideoPredictionConfig
